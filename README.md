@@ -37,3 +37,4 @@ Many of the special characters are outputting codes that will be recognised by a
 
 The RHS island is designed to have your fingers resting on the `hjkl` keys. This is one key to the left of the conventional QWERTY touch typing position so the letters 'o' and 'p' are slightly more difficult to reach than they ought to be.
 
+I went through 20+ iterations of this layout before reaching a layout I was totally happy with. Hopefully this might save you that time :)
