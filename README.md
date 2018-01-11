@@ -1,4 +1,4 @@
-Performance testing and training was carried out on [typing.io](https://typing.io/). Relative performance is in comparison to a baseline measurement I obtained using a conventional keyboard. After using it for 2+ months I would not consider switching back to a conventional keyboard for programming due to the hugely increased comfort and the very reasonable increase in typing speed. You can purchase these keyboards on [ergodox-ez.com](https://ergodox-ez.com/).
+Performance testing and training was carried out on [typing.io](https://typing.io/) which provides real source code as training material. Relative performance is in comparison to a baseline measurement I obtained using a conventional keyboard. After using it for 2+ months I would not consider switching back to a conventional keyboard for programming due to the hugely increased comfort and the very reasonable increase in typing speed. You can purchase these keyboards on [ergodox-ez.com](https://ergodox-ez.com/).
 
 | Time (days) | Typing speed (wpm) | Relative performance  |
 | ----------- |:------------------:| ---------------------:|
