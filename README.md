@@ -1,3 +1,10 @@
+| Time (days) | Typing speed (wpm) | Relative performance  |
+| ----------- |:------------------:| ---------------------:|
+| +1          | 8                  | 18%                   |
+| +7          | 22                 | 49%                   |
+| +14         | 35                 | 78%                   |
+| +28         | 47                 | 105%                  |
+| +56         | 58                 | 129%                  |
 # Considerations
 This layout is designed for Vim users and also contains mappings to facilitate easy navigation of Ubuntu workspaces, of which I am a heavy user.
 
@@ -12,9 +19,15 @@ The `layer0->layer1` modifier is the most heavily used, so it was placed in a mo
 # Notes
 The layout does not make use of every single key on the Ergodox (in particular the far thumb keys). The reason for this is that they are awkward to reach without contorting your wrists and a goal for this layout was to avoid all wrist flexion if possible.
 
-The RHS island is designed to have your fingers resting on the 'hjkl' keys. This is one key to the left of the conventional QWERTY touch typing position so the letters 'o' and 'p' are slightly more difficult to reach than they ought to be.
+Many of the special characters are outputting codes that will be recognised by a machine that is in UK keyboard mode. Modification is required for US compatibility
+
+The RHS island is designed to have your fingers resting on the `hjkl` keys. This is one key to the left of the conventional QWERTY touch typing position so the letters 'o' and 'p' are slightly more difficult to reach than they ought to be.
 
 ![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
+*layer0*
 ![layer1](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer1.png)
+*layer1*
 ![layer2](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer2.png)
+*layer2*
 ![layer3](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer3.png)
+*layer3*
