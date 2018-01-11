@@ -1,3 +1,5 @@
+Performance testing and training was carried out on [typing.io](https://typing.io/). Relative performance is in comparison to a baseline measurement I obtained using a conventional keyboard.
+
 | Time (days) | Typing speed (wpm) | Relative performance  |
 | ----------- |:------------------:| ---------------------:|
 | +1          | 8                  | 18%                   |
@@ -5,8 +7,9 @@
 | +14         | 35                 | 78%                   |
 | +28         | 47                 | 105%                  |
 | +56         | 58                 | 129%                  |
+
 # Considerations
-This layout is designed for Vim users and also contains mappings to facilitate easy navigation of Ubuntu workspaces, of which I am a heavy user.
+This layout is designed for Vim users and also contains mappings to facilitate easy navigation of Ubuntu workspaces, of which I am a heavy user. I also code mostly in Java, Kotlin and JavaScript so some of the layout choices may implicitly reflect that.
 
 The alphabetic layout is QWERTY for two reasons
 1. I did not want to have to change conventional mappings in software I use e.g. Vim's 'hjkl' which are designed for QWERTY keyboards
@@ -24,10 +27,12 @@ Many of the special characters are outputting codes that will be recognised by a
 The RHS island is designed to have your fingers resting on the `hjkl` keys. This is one key to the left of the conventional QWERTY touch typing position so the letters 'o' and 'p' are slightly more difficult to reach than they ought to be.
 
 ![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
-*layer0*
+**layer0**
 ![layer1](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer1.png)
-*layer1*
+**layer1**
 ![layer2](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer2.png)
-*layer2*
+**layer2**
 ![layer3](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer3.png)
-*layer3*
+**layer3**
+
+[link to layout](http://configure.ergodox-ez.com/keyboard_layouts/kxlgmg/edit)
