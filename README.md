@@ -21,14 +21,14 @@ The `layer0->layer1` modifier is the most heavily used, so it was placed in a mo
 
 # Layout
 [link to layout](http://configure.ergodox-ez.com/keyboard_layouts/kxlgmg/edit) if you want to modify it further
-![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
 **layer0**
-![layer1](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer1.png)
+![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
 **layer1**
-![layer2](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer2.png)
+![layer1](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer1.png)
 **layer2**
-![layer3](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer3.png)
+![layer2](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer2.png)
 **layer3**
+![layer3](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer3.png)
 
 # Notes
 The layout does not make use of every single key on the Ergodox (in particular the far thumb keys). The reason for this is that they are awkward to reach without contorting your wrists and a goal for this layout was to avoid all wrist flexion if possible.
