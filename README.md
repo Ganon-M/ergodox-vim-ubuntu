@@ -21,6 +21,7 @@ The `layer0->layer1` modifier is the most heavily used, so it was placed in a mo
 
 # Layout
 [link to layout](http://configure.ergodox-ez.com/keyboard_layouts/kxlgmg/edit) if you want to modify it further
+
 **layer0**
 ![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
 **layer1**
