@@ -20,7 +20,7 @@ There are two shift keys (one on each island's thumb group). You should use the 
 The `layer0->layer1` modifier is the most heavily used, so it was placed in a more easily reached location than the `layer0->layer2` modifier. Like the shift keys, there is a duplicate on each side. When typing e.g. braces/parentheses/curly braces, the RHS index finger very comfortably reaches the RHS `layer0->layer1` button.
 
 # Layout
-[link to layout](http://configure.ergodox-ez.com/keyboard_layouts/kxlgmg/edit) if you want to modify it further
+[link to layout](https://configure.ergodox-ez.com/keyboard_layouts/ldmyxg/edit) if you want to modify it further
 
 **layer0**
 ![layer0](https://github.com/Ganon-M/ergodox-vim-ubuntu/blob/master/layout/layer0.png)
